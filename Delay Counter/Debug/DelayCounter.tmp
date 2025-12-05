@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\delay_counter.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\Debug\DelayCounter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DelayCounter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DelayCounter.map</FILE>
+  <FILE>DelayCounter.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\delay_counter.asm</FILE><LINE>24</LINE></main>
+  <main_loop><FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\delay_counter.asm</FILE><LINE>41</LINE></main_loop>
+  <delay_loop><FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\delay_counter.asm</FILE><LINE>43</LINE></delay_loop>
+  <delay><FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\delay_counter.asm</FILE><LINE>57</LINE></delay>
+  <end_main><FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\delay_counter.asm</FILE><LINE>51</LINE></end_main>
+  <monitor_OCF1A><FILE>C:\Users\hazel\Desktop\Assembly Class\DelayCounter\delay_counter.asm</FILE><LINE>77</LINE></monitor_OCF1A>
+ </LABELS>
+</ASSEMBLER_INFO>
